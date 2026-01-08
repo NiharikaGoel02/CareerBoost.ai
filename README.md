@@ -568,7 +568,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <img src="https://img.icons8.com/color/96/000000/code.png" alt="Code" width="60"/>
 
-**Made with ❤️ and ☕ by [Nishant Bhalla](https://github.com/Nishant-0203)**
 
 *"Empowering careers through AI-driven insights"*
 
@@ -578,8 +577,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 [🏠 Home](#-resumeupai) • [✨ Features](#-features) • [🛠️ Tech Stack](#️-tech-stack) • [⚙️ Setup](#️-installation--setup) • [📖 Usage](#-usage) • [👨‍💻 Author](#-author)
 
----
-
-<sub>© 2025 ResumeUp.AI. All rights reserved.</sub>
-
-</div>
